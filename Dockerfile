@@ -7,3 +7,4 @@ RUN apt-get install -y nodejs
 RUN npm install -g fis-pure@0.1.4
 RUN npm install -g fis-parser-node-sass@0.1.4
 RUN echo "docker-fis-pure installed successfully!"
+
